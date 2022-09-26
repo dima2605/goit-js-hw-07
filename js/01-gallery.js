@@ -21,6 +21,7 @@ function createGalleryItems(galleryItems) {
     </div>`
     )
     .join("");
+  
 }
 function onImgClick(event) {
   event.preventDefault();
